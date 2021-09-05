@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is for afrikaans-->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">Instellings</string>
+    <string name="home">Tuiste</string>
+    <string name="map">kaart</string>
+    <string name="back">terug</string>
+    <string name="exit">Uitgang</string>
+    <string name="translate">vertaal</string>
+    <string name="TexttoSpeech">teks na spraak</string>
+    <string name="Quiz">Vasvra</string>
+
+    <string name="True">waar</string>
+    <string name="False">onwaar</string>
+
+    <string name="lightMode">lig af</string>
+
+    <string name="privacyPolicy">Privaatheidsbeleid</string>
+    <string name="agree">Stem saam</string>
+
+    <string name="countryName">Voer die landnaam hier in</string>
+    <string name="cityName">Voer die naam van die hoofstad hier in</string>
+    <string name="latitude">Tik hier breedtegraad in, \ n Bv. 39.076776 vir Griekeland</string>
+    <string name="longitude">Voer die lengte hier in, \ n Bv. 21.824312 vir Griekeland</string>
+    <string name="googleMap">Voeg by Google Map</string>
+    <string name="speak">Praat</string>
+    <string name="TSS">Teks van STT of vir TTS verskyn hier</string>
+    <string name="listen">Luister</string>
+    <string name="inputTranslate">Voer die boodskap hier in</string>
+    <string name="outputTranslate">Uitsetboodskap hier</string>
+</resources>

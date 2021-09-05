@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- this is for Samonan -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">Tulaga</string>
+    <string name="home">Fale</string>
+    <string name="map">Faafanua</string>
+    <string name="back">Tua i tua</string>
+    <string name="exit">Tuʻua i fafo</string>
+    <string name="TexttoSpeech">Upu i Tautalaga</string>
+    <string name="translate">Faʻaliliu</string>
+    <string name="Quiz">Suega</string>
+
+    <string name="True">Moni</string>
+    <string name="False">Sese</string>
+
+    <string name="lightMode">Faiga Malamalama</string>
+
+    <string name="privacyPolicy">Faalauaiteleina Faiga Faavae</string>
+    <string name="agree">Maliega</string>
+
+    <string name="countryName">Ulufale igoa igoa iinei</string>
+    <string name="cityName">Ulufale i le laumua igoa igoa</string>
+    <string name="latitude">Ulufale latitude ii, \ n Faʻata. 39.076776 mo Eleni</string>
+    <string name="longitude">Ulufale i longitude ii, \ n Tau. 21.824312 mo Eleni</string>
+    <string name="googleMap">Faʻaopopo i le Google Map</string>
+    <string name="speak">Tautala</string>
+    <string name="TSS">Tusitusiga mai STT pe mo TTS alu iinei</string>
+    <string name="listen">Faʻalogo</string>
+    <string name="inputTranslate">Faʻaulu le feʻau ii</string>
+    <string name="outputTranslate">Galuega faatino ii</string>
+</resources>

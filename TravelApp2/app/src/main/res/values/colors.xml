@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7D7D7D</color>
+    <color name="colorPrimaryDark">#3E3E3E</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="grey">#808080</color>
+
+    <!--Dark mode -->
+    <color name="darkBackground">#FCFCFC</color>
+    <color name="darkText">#000000</color>
+
+    <!--Light mode -->
+    <color name="lightBackground">#212121</color>
+    <color name="lightText">#FFFFFF</color>
+
+</resources>   

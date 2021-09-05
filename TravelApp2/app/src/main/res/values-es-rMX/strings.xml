@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- this is for mexico -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">Ajustes</string>
+    <string name="home">Casa</string>
+    <string name="map">Mapa</string>
+    <string name="back">Atrás</string>
+    <string name="exit">Salida</string>
+    <string name="TexttoSpeech">Texto a voz</string>
+    <string name="translate">traducir</string>
+    <string name="Quiz">Examen</string>
+
+    <string name="True">Cierto</string>
+    <string name="False">Falsa</string>
+
+    <string name="lightMode">Modo de luz</string>
+
+    <string name="privacyPolicy">política de privacidad</string>
+    <string name="agree">De acuerdo</string>
+
+    <string name="countryName">Ingrese el nombre del país aquí</string>
+    <string name="cityName">Ingrese el nombre de la ciudad capital aquí</string>
+    <string name="latitude">Introduzca aquí la latitud, \ n Ej. 39.076776 para Grecia</string>
+    <string name="longitude">Ingrese la longitud aquí, \ n Ej. 21.824312 para Grecia</string>
+    <string name="googleMap">Agregar al mapa de Google</string>
+    <string name="speak">Hablar</string>
+    <string name="TSS">El texto de STT o para TTS va aquí</string>
+    <string name="listen">Escucha</string>
+    <string name="inputTranslate">Ingrese el mensaje aquí</string>
+    <string name="outputTranslate">Mensaje de salida aquí</string>
+</resources>

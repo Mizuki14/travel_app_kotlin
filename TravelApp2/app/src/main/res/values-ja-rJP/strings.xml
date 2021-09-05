@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This is for japanese -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">設定</string>
+    <string name="home">ホーム</string>
+    <string name="map">マップ</string>
+    <string name="back">戻る</string>
+    <string name="exit">出る</string>
+    <string name="TexttoSpeech">読み上げ</string>
+    <string name="translate">翻訳</string>
+    <string name="Quiz">クイズ</string>
+
+    <string name="True">真</string>
+    <string name="False">嘘</string>
+
+    <string name="lightMode">ライトモード</string>
+
+    <string name="privacyPolicy">プライバシーポリシー</string>
+    <string name="agree">同意</string>
+
+    <string name="countryName">国名</string>
+    <string name="cityName">都市名</string>
+    <string name="latitude">緯度\n Eg. 39.076776 for Greece</string>
+    <string name="longitude">経度e, \n Eg. 21.824312 for Greece</string>
+    <string name="googleMap">マップに追加</string>
+    <string name="speak">話す</string>
+    <string name="TSS">ここに入力</string>
+    <string name="listen">聞く</string>
+    <string name="inputTranslate">入力</string>
+    <string name="outputTranslate">出力</string>
+</resources>

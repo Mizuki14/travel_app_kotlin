@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This is for maori -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">Tautuhinga</string>
+    <string name="home">Kainga</string>
+    <string name="map">Mapi</string>
+    <string name="back">Tuara</string>
+    <string name="exit">Putanga</string>
+    <string name="translate">Whakamaori</string>
+    <string name="TexttoSpeech">Tuhinga ki te whaikorero</string>
+    <string name="Quiz">Patapatai</string>
+
+    <string name="True">Pono</string>
+    <string name="False">Hape</string>
+
+    <string name="lightMode">Aratau maama</string>
+
+    <string name="privacyPolicy">kaupapahere tūmataitinga</string>
+    <string name="agree">Whakaae</string>
+
+    <string name="countryName">Whakauruhia te ingoa whenua ki konei</string>
+    <string name="cityName">Whakauruhia te ingoa taone nui ki konei</string>
+    <string name="latitude">Whakauruhia te ahopae ki konei, \ n Hei. 39.076776 mo Kariki</string>
+    <string name="longitude">Whakauruhia te ahopou ki konei, \ n Hei. 21.824312 mo Kariki</string>
+    <string name="googleMap">Taapirihia ki te Mahere a Google</string>
+    <string name="speak">Korero</string>
+    <string name="TSS">Ko nga korero mai i te STT, mo te TTS ranei kei konei</string>
+    <string name="listen">Whakarongo</string>
+    <string name="inputTranslate">Karere Whakauru i konei</string>
+    <string name="outputTranslate">Karere Huaputa i konei</string>
+</resources>

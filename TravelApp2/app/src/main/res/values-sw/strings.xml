@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- this is for swhili -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">Mipangilio</string>
+    <string name="home">Nyumbani</string>
+    <string name="map">Ramani</string>
+    <string name="back">Nyuma</string>
+    <string name="exit">Utgång</string>
+    <string name="TexttoSpeech">Nakala ya Hotuba</string>
+    <string name="translate">Tafsiri</string>
+    <string name="Quiz">Jaribio</string>
+
+    <string name="True">Kweli</string>
+    <string name="False">Uongo</string>
+
+    <string name="lightMode">Njia nyepesi</string>
+
+    <string name="privacyPolicy">Sera ya faragha</string>
+    <string name="agree">Kubali</string>
+
+    <string name="countryName">Ingiza jina la nchi hapa</string>
+    <string name="cityName">Ingiza jina la mji mkuu hapa</string>
+    <string name="latitude">Ingiza latitudo hapa, \ nK. 39.076776 kwa Ugiriki</string>
+    <string name="longitude">Ingiza longitudo hapa, \ nK. 21.824312 kwa Ugiriki</string>
+    <string name="googleMap">Ongeza kwenye Ramani ya Google</string>
+    <string name="speak">Ongea</string>
+    <string name="TSS">Maandishi kutoka STT au kwa TTS huenda hapa</string>
+    <string name="listen">Sikiza</string>
+    <string name="inputTranslate">Ingiza ujumbe hapa</string>
+    <string name="outputTranslate">Pato la ujumbe hapa</string>
+</resources>

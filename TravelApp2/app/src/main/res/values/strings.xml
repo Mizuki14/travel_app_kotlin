@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="TexttoSpeech">Text to Speech</string>
+    <string name="translate">Translate</string>
+    <string name="Quiz">Quiz</string>
+
+    <string name="True">True</string>
+    <string name="False">False</string>
+
+    <string name="lightMode">Light Mode</string>
+    <string name="privacyPolicy">Privacy Policy</string>
+    <string name="agree">Agree</string>
+
+    <string name="countryName">Enter country name here</string>
+    <string name="cityName">Enter capital city name here</string>
+    <string name="latitude">Enter latitude here, \n Eg. 39.076776 for Greece</string>
+    <string name="longitude">Enter longitude here, \n Eg. 21.824312 for Greece</string>
+    <string name="googleMap">Add to Google Map</string>
+    <string name="speak">Speak</string>
+    <string name="TSS">Text from STT or for TTS goes here</string>
+    <string name="listen">Listen</string>
+    <string name="inputTranslate">Input message here</string>
+    <string name="outputTranslate">Output message here</string>
+
+    <string-array name="countryList">
+        <item>South Africa</item>
+        <item>Nigeria</item>
+
+        <item>Japan</item>
+        <item>South Korea</item>
+
+        <item>Australia</item>
+        <item>New Zealand</item>
+
+        <item>Germany</item>
+        <item>France</item>
+
+        <item>Canada</item>
+        <item>United States of America</item>
+    </string-array>
+    <string-array name="languageList">
+        <item>Please select a language</item>
+        <item>South Africa</item>
+        <item>Nigeria</item>
+
+        <item>Japan</item>
+        <item>South Korea</item>
+
+        <item>Australia</item>
+        <item>New Zealand</item>
+
+        <item>Germany</item>
+        <item>France</item>
+
+        <item>Canada</item>
+        <item>United States of America</item>
+    </string-array>
+
+    <string-array name="quizList">
+        <item>Choose a country to start quiz</item>
+        <item>South Africa</item>
+        <item>Japan</item>
+        <item>New Zealand</item>
+        <item>Germany</item>
+        <item>Canada</item>
+        <item>Brazil</item>
+    </string-array>
+
+    <!--list of quiz, Answer buttom-->
+    <string-array name="SouthAfricaQuiz">
+        <!-- https://www.britannica.com/quiz/exploring-south-africa-fact-or-fiction -->
+        <item>Most South Africans are of European origin</item>
+        <item>South Africa has few minerals.</item>
+        <item>Lesotho is completely surrounded by South Africa</item>
+        <item>Johannesburg, South Africa, sits on a major river.</item>
+        <item>Most of South Africa is a plateau</item>
+    </string-array>
+    <string-array name="SouthAfricaAnswer">
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="JapanQuiz">
+        <!-- https://www.funtrivia.com/playquiz/quiz73780874d68.html -->
+        <item>The population of Japan at the turn of the 21st century was just under 100,000,000</item>
+        <item>The most northerly of the four main islands is Honshu</item>
+        <item>Japan has to import most of the raw materials needed for its industries</item>
+        <item>There are very few earthquakes in Japan</item>
+        <item>Is Japan almost 1.5 times bigger than New Zealand ?</item>
+    </string-array>
+
+    <string-array name="JapanAnswer">
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+    </string-array>
+
+    <string-array name="NZQuiz">
+        <!-- https://www.jetpunk.com/user-quizzes/298295/australian-true-false -->
+        <item>True or False, The Dutch actually found it first but they landed in a part that couldn’t be colonised</item>
+        <item>True or False, Julia Gillard became prime minister in 2010. She stayed in office for three years.</item>
+        <item>True or False, It’s actually got THE largest population of camels</item>
+        <item>True or false, There are 7 stars on the Australian Flag.</item>
+        <item>Australia became independent on January 1st 1901</item>
+    </string-array>
+
+    <string-array name="NZAnswer">
+        <item>False</item>
+        <item>False.</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+    </string-array>
+
+     <string-array name="GermanyQuiz">
+        <!-- https://www.thetravel.com/10-head-scratching-things-about-germany-that-are-true-10-that-are-false/ -->
+        <item>Germany Has Got A Universal Place Of Worship</item>
+        <item>East And West Berlin Look Somewhat Different From Space</item>
+        <item>Germany Is Still Covered With Thousands Of Unexploded Bombs</item>
+        <item>No Drilling On Sundays</item>
+        <item>It is Not Okay To Run Out Of Fuel On The Highway</item>
+    </string-array>
+
+    <string-array name="GermanyAnswer">
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name="CanadaQuiz">
+        <!-- https://www.infoedmonton.com/article/10-true-or-false-things-you-may-not-know-about-canada/ -->
+        <item>In 1979, Canadians Chris Haney and Scott Abbott created the popular board game, Trivial Pursuit.</item>
+        <item>In 1885, the first penny was flattened on the Canadian Pacific Railway.</item>
+        <item>Western Canada consumes five times more Nickelback than Eastern Canada</item>
+        <item>Canada has hosted three Olympic games: Montreal in 1976, Calgary in 1988, and Vancouver in 2010</item>
+        <item>The comedy Porky’s is the highest-grossing Canadian film of all time in Canada’s domestic box office.</item>
+    </string-array>
+
+    <string-array name="CanadaAnswer">
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+    </string-array>
+
+    <string-array name="BrazilQuiz">
+        <!-- https://www.jetpunk.com/user-quizzes/1251499/brazil-true-or-false -->
+        <item>Brazil occupies roughly half of South America.</item>
+        <item>Salvador was the very first capital city of Brazil.</item>
+        <item>São Paulo was once capital city of Brazil</item>
+        <item> The majority of Brazilians live within 300 kilometers of the coast</item>
+        <item>Brazilian biggest border is with Argentina</item>
+    </string-array>
+
+    <string-array name="BrazilAnswer">
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_navigation">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

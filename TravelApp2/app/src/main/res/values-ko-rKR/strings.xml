@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This is for korea -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">설정</string>
+    <string name="home">집</string>
+    <string name="map">지도</string>
+    <string name="back">뒤</string>
+    <string name="exit">출구</string>
+    <string name="TexttoSpeech">텍스트 음성 변환</string>
+    <string name="translate">옮기다</string>
+    <string name="Quiz">퀴즈</string>
+
+    <string name="True">진실</string>
+    <string name="False">그릇된</string>
+
+    <string name="lightMode">라이트 모드</string>
+
+    <string name="privacyPolicy">개인 정보 정책</string>
+    <string name="agree">동의하다</string>
+
+    <string name="countryName">여기에 국가 이름을 입력하세요.</string>
+    <string name="cityName">여기에 수도 이름을 입력하세요.</string>
+    <string name="latitude">여기에 위도를 입력하십시오. \ n 예. 그리스 39.076776</string>
+    <string name="longitude">여기에 경도를 입력하십시오. \ n 예. 그리스의 경우 21.824312</string>
+    <string name="googleMap">Google지도에 추가</string>
+    <string name="speak">말하다</string>
+    <string name="TSS">STT 또는 TTS의 텍스트가 여기에 표시됩니다.</string>
+    <string name="listen">들리다</string>
+    <string name="inputTranslate">여기에 메시지 입력</string>
+    <string name="outputTranslate">여기에 메시지 출력</string>
+</resources>

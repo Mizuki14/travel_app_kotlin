@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TranslateActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="12dp"
+        tools:context=".TranslateActivity">
+        <Spinner
+            android:id="@+id/inputLanguage"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            tools:ignore="MissingConstraints"
+            style="@style/Widget.AppCompat.Button" />
+        <Spinner
+            android:id="@+id/outputLanguage"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            tools:ignore="MissingConstraints"
+            style="@style/Widget.AppCompat.Button" />
+        <EditText
+            android:id="@+id/inputEdit"
+            android:layout_width="match_parent"
+            android:layout_height="109dp"
+            android:gravity="center"
+            android:hint="@string/inputTranslate"
+            android:autofillHints="Country Name" />
+        <EditText
+            android:id="@+id/outputEdit"
+            android:layout_width="match_parent"
+            android:layout_height="109dp"
+            android:gravity="center"
+            android:hint="@string/outputTranslate"
+            android:autofillHints="Capital City Name" />
+    </LinearLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="410dp"
+        android:layout_height="62dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        app:itemIconTint="@color/black"
+        app:itemTextColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/back_bottom_navigation"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

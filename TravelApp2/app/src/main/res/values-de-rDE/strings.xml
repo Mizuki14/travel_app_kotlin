@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is for german-->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">die Einstellungen</string>
+    <string name="home">Zuhause</string>
+    <string name="map">Karte</string>
+    <string name="back">Zurück</string>
+    <string name="exit">Ausgang</string>
+    <string name="TexttoSpeech">Text zu Sprache</string>
+    <string name="translate">Übersetzen</string>
+    <string name="Quiz">Quiz</string>
+
+    <string name="True">Wahr</string>
+    <string name="False">Falsch</string>
+
+    <string name="lightMode">Lichtmodus</string>
+
+    <string name="privacyPolicy">Datenschutz-Bestimmungen</string>
+    <string name="agree">Zustimmen</string>
+
+    <string name="countryName">Geben Sie hier den Ländernamen ein</string>
+    <string name="cityName">Geben Sie hier den Namen der Hauptstadt ein</string>
+    <string name="latitude">Geben Sie hier den Breitengrad ein, \ n z. 39.076776 für Griechenland</string>
+    <string name="longitude">Geben Sie hier den Längengrad ein, \ n z. 21.824312 für Griechenland</string>
+    <string name="googleMap">Zur Google Map hinzufügen</string>
+    <string name="speak">Sprechen</string>
+    <string name="TSS">Text von STT oder für TTS geht hier</string>
+    <string name="listen">Hör mal zu</string>
+    <string name="inputTranslate">Nachricht hier eingeben</string>
+    <string name="outputTranslate">Nachricht hier ausgeben</string>
+</resources>

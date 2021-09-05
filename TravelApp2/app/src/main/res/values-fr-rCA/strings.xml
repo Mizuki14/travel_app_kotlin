@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- this is for canada french -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">Réglages</string>
+    <string name="home">Accueil</string>
+    <string name="map">Carte</string>
+    <string name="back">Retour</string>
+    <string name="exit">Sortie</string>
+    <string name="TexttoSpeech">parler</string>
+    <string name="translate">traduire</string>
+    <string name="Quiz">Quiz</string>
+
+    <string name="True">Vrai</string>
+    <string name="False">Faux</string>
+
+    <string name="lightMode">Mode lumière</string>
+
+    <string name="privacyPolicy">Privaatheidsbeleid</string>
+    <string name="agree">politique de confidentialité</string>
+
+    <string name="countryName">Entrez le nom du pays ici</string>
+    <string name="cityName">Entrez le nom de la capitale ici</string>
+    <string name="latitude">Entrez la latitude ici, \ n Par exemple. 39.076776 pour la Grèce</string>
+    <string name="longitude">Entrez la longitude ici, \ n Ex. 21.824312 pour la Grèce</string>
+    <string name="googleMap">Ajouter à Google Map</string>
+    <string name="speak">Parler</string>
+    <string name="TSS">Le texte de STT ou pour TTS va ici</string>
+    <string name="listen">Ecoutez</string>
+    <string name="inputTranslate">Entrez le message ici</string>
+    <string name="outputTranslate">Message de sortie ici</string>
+</resources>

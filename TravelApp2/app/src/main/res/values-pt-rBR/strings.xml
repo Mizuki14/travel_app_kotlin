@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This is for portuguese -->
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="settings">configurações</string>
+    <string name="home">casa</string>
+    <string name="map">mapa</string>
+    <string name="back">costas</string>
+    <string name="exit">Saída</string>
+    <string name="TexttoSpeech">Texto para fala</string>
+    <string name="translate">traduzir</string>
+    <string name="Quiz">Questionário</string>
+
+    <string name="True">Verdade</string>
+    <string name="False">Falsa</string>
+
+    <string name="lightMode">Modo de luz</string>
+
+    <string name="privacyPolicy">Política de Privacidade</string>
+    <string name="agree">Aceita</string>
+
+
+    <string name="countryName">Insira o nome do país aqui</string>
+    <string name="cityName">Insira o nome da capital aqui</string>
+    <string name="latitude">Insira a latitude aqui, \ n Ex. 39.076776 para a Grécia</string>
+    <string name="longitude">Insira a longitude aqui, \ n Ex. 21.824312 para a Grécia</string>
+    <string name="googleMap">Adicionar ao mapa do Google</string>
+    <string name="speak">Falar</string>
+    <string name="TSS">Texto de STT ou para TTS vai aqui</string>
+    <string name="listen">Ouço</string>
+    <string name="inputTranslate">Insira a mensagem aqui</string>
+    <string name="outputTranslate">Mensagem de saída aqui</string>
+</resources>
