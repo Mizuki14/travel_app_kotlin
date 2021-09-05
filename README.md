@@ -1,3 +1,4 @@
+Bugs and future improvement
 This is README file for TravelApp2
 - [Privacy Policy]( https://github.com/otago-polytechnic-bit-courses/in721-kotlin-travelling-app-Mizuki14#-privacy-policy- )
 - [Wireframe Sketches](https://github.com/otago-polytechnic-bit-courses/in721-kotlin-travelling-app-Mizuki14#-wireframe-sketches- )
