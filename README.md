@@ -1,4 +1,5 @@
 This is README file for TravelApp2
+Download https://play.google.com/store/apps/details?id=op.hachm1.travelapp <br>
 - [Privacy Policy]( https://github.com/otago-polytechnic-bit-courses/in721-kotlin-travelling-app-Mizuki14#-privacy-policy- )
 - [Wireframe Sketches](https://github.com/otago-polytechnic-bit-courses/in721-kotlin-travelling-app-Mizuki14#-wireframe-sketches- )
 - [User Guide]( https://github.com/otago-polytechnic-bit-courses/in721-kotlin-travelling-app-Mizuki14#-user-guide- )
